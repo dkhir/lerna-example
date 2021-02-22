@@ -12,5 +12,9 @@
   "dependencies": {
     "@dkhir/alpha": "^0.2.0",
     "@dkhir/beta": "^0.2.0"
+  },
+  "gitHead": "bc5e8b23c5e66e2f33c3aee43aad0527236a6531",
+  "publishConfig": {
+    "access": "public"
   }
 }
