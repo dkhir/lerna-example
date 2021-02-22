@@ -13,7 +13,7 @@
     "@dkhir/alpha": "^0.3.0",
     "@dkhir/beta": "^0.3.0"
   },
-  "gitHead": "bc5e8b23c5e66e2f33c3aee43aad0527236a6531",
+  "gitHead": "e3c14ee6305a3466ad16cf60008a9b5cab35fbed",
   "publishConfig": {
     "access": "public"
   }
